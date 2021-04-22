@@ -1,0 +1,32 @@
+#EXTM3U
+#EXTINF:-1 group-title="Україна",ВІТЕР TV (Кривий Ріг)
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+http://live-viter.cosmonova.net.ua/hls/viter_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",Март (Миколаїв)
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+http://mart.cdn-05.cosmonova.net.ua/hls/mart_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",Ільдана (Черкащина)
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+http://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",СОЮЗ-TV Житомир
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+http://live-sojuztv.cosmonova.net.ua/hls/sojuztv_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",UA Черкассы
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+https://nstu-regional-hls2.cosmonova.net.ua/hls/nstu-cherk_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Україна",UA Буковина
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+https://nstu-regional-hls2.cosmonova.net.ua/hls/nstu-cherniv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",UA Волынь
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+https://nstu-regional-hls2.cosmonova.net.ua/hls/nstu-vol_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Україна",Винничина
+#EXTVLCOPT:http-referrer=https://000.cosmonova.net.ua
+http://vinnychchyna-hls3.cosmonova.net.ua/hls/vinnychchyna_ua_hi/index.m3u8
+
+#EXTINF:-1 group-title="Україна",Sfera
+#EXTVLCOPT:http-referrer=http://cdnhls.goodgame.ru/hls/00000.m3u8
+https://cdnhls.goodgame.ru/hls/178689.m3u8|User-agent=(#)
+#EXTINF:-1 group-title="Україна",soyuz fm
+#EXTVLCOPT:http-referrer=https://000.pcradio.ru/
+https://str5.pcradio.ru/puradsifm_com-med
